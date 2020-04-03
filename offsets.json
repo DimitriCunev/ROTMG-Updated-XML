@@ -1,53 +1,53 @@
 {
     "health":[
        {
-          "addr":0x0300AB28,
+          "addr":50375464,
           "type":"pointer"
        },
        {
-          "addr":0x300,
+          "addr":768,
           "type":"pointer"
        },
        {
-          "addr":0x18,
+          "addr":24,
           "type":"pointer"
        },
        {
-          "addr":0x68,
+          "addr":104,
           "type":"pointer"
        },
        {
-          "addr":0x38,
+          "addr":56,
           "type":"pointer"
        },
        {
-          "addr":0x20,
+          "addr":32,
           "type":"pointer"
        },
        {
-          "addr":0x118,
+          "addr":280,
           "type":"pointer"
        },
        {
-          "addr":0x1C0,
+          "addr":448,
           "type":"int"
        }
     ],
     "mhealth":[
        {
-          "addr":0x0300AB28,
+          "addr":50375464,
           "type":"pointer"
        },
        {
-          "addr":0x408,
+          "addr":1032,
           "type":"pointer"
        },
        {
-          "addr":0x28,
+          "addr":40,
           "type":"pointer"
        },
        {
-          "addr":0x1BC,
+          "addr":444,
           "type":"int"
        }
     ]
