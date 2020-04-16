@@ -1,54 +1,24 @@
 {
-    "health":[
+    "player":[
        {
-          "addr":50375464,
+          "addr":52678592,
           "type":"pointer"
        },
        {
-          "addr":768,
+          "addr":184,
           "type":"pointer"
        },
        {
-          "addr":24,
+          "addr":0,
           "type":"pointer"
        },
        {
-          "addr":104,
+          "addr":144,
           "type":"pointer"
        },
        {
-          "addr":56,
+          "addr":576,
           "type":"pointer"
-       },
-       {
-          "addr":32,
-          "type":"pointer"
-       },
-       {
-          "addr":280,
-          "type":"pointer"
-       },
-       {
-          "addr":448,
-          "type":"int"
-       }
-    ],
-    "mhealth":[
-       {
-          "addr":50375464,
-          "type":"pointer"
-       },
-       {
-          "addr":1032,
-          "type":"pointer"
-       },
-       {
-          "addr":40,
-          "type":"pointer"
-       },
-       {
-          "addr":444,
-          "type":"int"
        }
     ]
  }
