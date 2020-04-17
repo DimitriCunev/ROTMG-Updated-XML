@@ -1,23 +1,23 @@
 {
     "player":[
        {
-          "addr":52095600,
+          "addr":52392800,
           "type":"pointer"
        },
        {
-          "addr":152,
+          "addr":184,
           "type":"pointer"
        },
        {
-          "addr":32,
+          "addr":0,
           "type":"pointer"
        },
        {
-          "addr":136,
+          "addr":184,
           "type":"pointer"
        },
        {
-          "addr":40,
+          "addr":128,
           "type":"pointer"
        }
     ]
