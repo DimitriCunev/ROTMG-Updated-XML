@@ -1,7 +1,7 @@
 {
     "player":[
        {
-          "addr":52392800,
+          "addr":52468912,
           "type":"pointer"
        },
        {
@@ -13,11 +13,11 @@
           "type":"pointer"
        },
        {
-          "addr":184,
+          "addr":872,
           "type":"pointer"
        },
        {
-          "addr":128,
+          "addr":40,
           "type":"pointer"
        }
     ]
