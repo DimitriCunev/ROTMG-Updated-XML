@@ -1,0 +1,25 @@
+  
+{
+    "player":[
+       {
+          "addr":52468912,
+          "type":"pointer"
+       },
+       {
+          "addr":184,
+          "type":"pointer"
+       },
+       {
+          "addr":0,
+          "type":"pointer"
+       },
+       {
+          "addr":872,
+          "type":"pointer"
+       },
+       {
+          "addr":40,
+          "type":"pointer"
+       }
+    ]
+ }
